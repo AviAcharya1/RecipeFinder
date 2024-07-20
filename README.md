@@ -1,5 +1,3 @@
-
-```markdown
 # Recipe Finder
 
 Recipe Finder is a React-based web application that allows users to search for recipes using the Edamam API. It features a responsive design, dark/light theme toggle, and displays recipe cards with ingredients and calorie information.
@@ -28,7 +26,13 @@ Recipe Finder is a React-based web application that allows users to search for r
 
 ## Demo
 
-[View the live demo](https://your-vercel-deployment-url.vercel.app)
+[View the live demo](https://recipe-finder-dusky-nine.vercel.app/)
+
+
+## Screenshots
+![Screenshot](./src/assets/img1.png) <br>
+
+![Screenshot](./src/assets/img2.png) <br>
 
 ## Getting Started
 
@@ -120,4 +124,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [React Bootstrap](https://react-bootstrap.github.io/)
 - [Edamam API](https://developer.edamam.com/edamam-recipe-api)
 - [Font Awesome](https://fontawesome.com/)
-```
+
