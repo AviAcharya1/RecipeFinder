@@ -124,4 +124,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [React Bootstrap](https://react-bootstrap.github.io/)
 - [Edamam API](https://developer.edamam.com/edamam-recipe-api)
 - [Font Awesome](https://fontawesome.com/)
-
