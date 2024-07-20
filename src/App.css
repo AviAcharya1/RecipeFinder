@@ -1,0 +1,77 @@
+*{
+    transition: transform 1.2s;
+}
+
+.light-theme {
+    background-color: #c7d0d0c0;
+    color: #212529;
+}
+
+.dark-theme {
+    background-color: #343a40;
+    color: #a6caed;
+}
+
+.dark-theme .card {
+      box-shadow: 0 0 10px rgba(69, 69, 69, 0.221);
+    background-color: #454d55;
+    color: #f8f9fa;
+  }
+  
+  .dark-theme .list-group-item {
+    background-color: #454d55;
+    color: #f8f9fa;
+  }
+  
+  .form-control {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: none;
+    color: inherit;
+  }
+  
+  .dark-theme .form-control {
+    background-color: rgba(0, 0, 0, 0.2);
+  }
+  
+  .form-control::placeholder {
+    color: rgba(255, 255, 255, 0.5);
+  }
+  
+  .btn-primary {
+    background-color: #ebbfbf;
+    border-color: #ff6b6b;
+  }
+  
+  .btn-primary:hover {
+    background-color: #ff5252;
+    border-color: #ff5252;
+  }
+  
+  .navbar {
+    padding: 1rem 0;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+
+  .form-control {
+    height: 100%;
+  }
+  
+  .btn-dark {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+
+.recipe-card {
+    transition: transform 0.2s;
+  }
+  
+  .recipe-card:hover {
+    transform: scale(1.03);
+  }
